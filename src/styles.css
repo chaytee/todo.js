@@ -27,7 +27,7 @@ button:hover {
   margin: 8px;
   border-radius: 10px;
 }
-.imcompleat-area {
+.incompleate-area {
   background-color: #c6ffe2;
   width: 400px;
   box-sizing: border-box;
@@ -35,7 +35,7 @@ button:hover {
   margin: 8px;
   border-radius: 10px;
 }
-.compleat-area {
+.compleate-area {
   background-color: #ffffe0;
   width: 400px;
   box-sizing: border-box;
